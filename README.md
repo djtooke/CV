@@ -1,16 +1,16 @@
-## Your Name
+## Daniel Tooke
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Motivated and highly versatile individual; a thinker in need of constant stimulation; all-round excitable person.
+
+My background is in Classical music, but having made a decisive move into programming, I've found a mode of work that brings all my strengths and motivations perfectly together. It's such a joy to no longer be a square peg in a round hole.
 
 ## Skills
 
-#### This Skill
+#### Communication skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I've honed my communication skills in a variety of contexts, whether in presentation mode as a teacher of unruly Guyanese schoolchildren, through written academic theses and articles, or in writing and directing plays!
 
-- Experience
-- Achievements
-- Evidence
+At Makers' Academy this skill has been front and centre throughout our pair programming sessions. I'm particularly happy breaking down and explaining code to another developer, and where necessary, teaching any new elements.
 
 #### Another Skill
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2018 to June 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,37 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University Education
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+## Durham University Music Department (September 2010 - June 2013)
+
+- Music B.A. (Hons) Class: I
+- Specialisms included Acoustic and Electroacoustic Composition, and Russian Music
+- Heavily involved in student societies and committees, including 
+
+## Durham University Music Department (September 2013 - February 2015)
+
+- Masters by Research
+- Thesis title: "Arnold Schoenberg's Die glückliche Hand: Artistic self-envisioning in the era of early modernism"
+- Essentially an examination of Schoenberg's early opera Die glückliche Hand, and the ways in which the protagonist was a clear projection of Schoenberg's own self-image.
+
+## Leeds University Music Department  (March 2015 - February 2018)
+
+- PhD in Music (Unfinished)
+- Thesis title: Hans Keller: Putting an emigre musician in context
+- A wide-ranging study of the life and work of British-Austrian music critic and broadcaster Hans Keller; unfortunately left unfinished at the point of my career change into programming.
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Well-Typed LLP** (September 2016 to Present)    
+*Assistant Business Administrator*
+
+-  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+## You may also like to know
+
+
