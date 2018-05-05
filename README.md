@@ -6,15 +6,15 @@ My background is in Classical music, but having made a decisive move into progra
 
 ## Skills
 
-#### Communication skills
+#### Excellent Communication Skills
 
-I've honed my communication skills in a variety of contexts, whether in presentation mode as a teacher of unruly Guyanese schoolchildren, through written academic theses and articles, or in writing and directing plays!
+I consider my communication skills to be my greatest asset. I've been lucky enough to hone them in a wide variety of contexts, whether in leadership mode as a teacher of unruly Guyanese schoolchildren, through tutoring undergraduate students in music, or in writing and directing plays!
 
-At Makers' Academy this skill has been front and centre throughout our pair programming sessions. I'm particularly happy breaking down and explaining code to another developer, and where necessary, teaching any new elements.
+At Makers Academy, close communication has been front and centre throughout our pair programming sessions and group work. I'm particularly happy breaking down and explaining code to another developer, and where necessary, teaching any new elements.
 
-#### Another Skill
+#### Creative Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Problem solving was, for me, the main draw of a career software development. Finding creative solutions to problems is incredibly invigorating, and for me the process is just as important as the eventual solution.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -40,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Music B.A. (Hons) Class: I
 - Specialisms included Acoustic and Electroacoustic Composition, and Russian Music
-- Heavily involved in student societies and committees, including 
+- Heavily involved in student societies and committees, including
 
 ## Durham University Music Department (September 2013 - February 2015)
 
@@ -50,9 +50,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Leeds University Music Department  (March 2015 - February 2018)
 
-- PhD in Music (Unfinished)
+- PhD in Music (unfinished)
 - Thesis title: Hans Keller: Putting an emigre musician in context
-- A wide-ranging study of the life and work of British-Austrian music critic and broadcaster Hans Keller; unfortunately left unfinished at the point of my career change into programming.
+- A wide-ranging study of the life and work of British-Austrian music critic and broadcaster Hans Keller.
 
 #### Any other qualifications
 
@@ -62,9 +62,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Assistant Business Administrator*
 
 -  
-**Company Name** (start_date to end_date)   
+**Leeds University** (start_date to end_date)   
 *Your job title*  
 
 ## You may also like to know
-
-
