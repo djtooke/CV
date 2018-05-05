@@ -23,7 +23,7 @@ Problem solving was, for me, the main draw of a career software development. Fin
 
 ## Education
 
-#### Makers Academy (March 2018 to June 2018)
+### Makers Academy (March 2018 to June 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,21 +34,21 @@ Problem solving was, for me, the main draw of a career software development. Fin
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University Education
+### University Education
 
-## Durham University Music Department (September 2010 - June 2013)
+#### Durham University Music Department (September 2010 - June 2013)
 
 - Music B.A. (Hons) Class: I
 - Specialisms included Acoustic and Electroacoustic Composition, and Russian Music
 - Heavily involved in student societies and committees, including
 
-## Durham University Music Department (September 2013 - February 2015)
+#### Durham University Music Department (September 2013 - February 2015)
 
 - Masters by Research
 - Thesis title: "Arnold Schoenberg's Die glückliche Hand: Artistic self-envisioning in the era of early modernism"
 - Essentially an examination of Schoenberg's early opera Die glückliche Hand, and the ways in which the protagonist was a clear projection of Schoenberg's own self-image.
 
-## Leeds University Music Department  (March 2015 - February 2018)
+#### Leeds University Music Department  (March 2015 - February 2018)
 
 - PhD in Music (unfinished)
 - Thesis title: Hans Keller: Putting an emigre musician in context
