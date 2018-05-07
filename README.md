@@ -8,9 +8,9 @@ My background is in Classical music, but having made a decisive move into progra
 
 #### Excellent Communication Skills
 
-I consider my communication skills to be my greatest asset. I've been lucky enough to hone them in a wide variety of contexts, whether in leadership mode as a teacher of unruly Guyanese schoolchildren, through tutoring undergraduate students in music, or in writing and directing plays!
+I consider my communication skills to be my greatest asset. I've been lucky enough to hone them in a wide variety of contexts, whether as a teacher of unruly Guyanese schoolchildren, through tutoring undergraduate students in music, or in writing and directing plays!
 
-At Makers Academy, close communication has been front and centre throughout our pair programming sessions and group work. I'm particularly happy breaking down and explaining code to another developer, and where necessary, teaching any new elements.
+At Makers Academy, close communication has been front and centre throughout our pair programming sessions and group work. I'm particularly happy breaking down and explaining code to another developer, and where necessary, teaching any new elements. The feedback I've received from other members of my cohort is that as a pair programmer I'm patient, very friendly, and able to work towards tackling problems in a shared headspace.
 
 #### Creative Problem Solving
 
@@ -56,13 +56,15 @@ Problem solving was, for me, the main draw of a career software development. Fin
 
 #### Any other qualifications
 
-## Experience
+## Selected Experience
 
 **Well-Typed LLP** (September 2016 to Present)    
 *Assistant Business Administrator*
 
+As assistant business administrator I am responsible for all aspects of the firm's administration, including sending and receiving invoices, upkeep of accounts and paying contractors. All of the firm's records are written in Haskell, so I have been working with these and interacting with homemade programs to perform functions such as VAT returns.
+
 -  
-**Leeds University** (start_date to end_date)   
+**Leeds University** (October 2016 to January 2018)   
 *Your job title*  
 
 ## You may also like to know
