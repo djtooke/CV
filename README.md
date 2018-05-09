@@ -46,7 +46,7 @@ Makers Academy is an intense, highly selective 12-week coding bootcamp. I have b
 
 - Music B.A. (Hons) Class: I
 - Specialisms included Acoustic and Electroacoustic Composition, and Russian Music
-- Heavily involved in student societies and committees, including
+- Heavily involved in student societies and committees, including in leadership roles
 
 #### Durham University Music Department (September 2013 - February 2015)
 
@@ -72,7 +72,7 @@ As Assistant Business Administrator I am responsible for all aspects of the firm
 **Leeds University** (October 2016 to January 2018)   
 *Postgraduate Teaching Assistant*
 
-I taught the Music Research Skills module to undergraduates for two consecutive years. <!-- Expand this! -->s
+I taught the Music Research Skills module to undergraduates for two consecutive years. <!-- Expand this! -->
 
 **Cambridge ESOL [English for Speakers of Other Languages]** (October 2008 - September 2010)
 *Exams Administrator*
@@ -81,6 +81,6 @@ As an exams administrator I was a typesetter responsible for creating proofs of 
 
 ## You may also like to know
 
-- I am a keen home chef, and often note that I take a similar approach to cooking as in coding: working methodically, with a focus on best practice (knife skills, mise en place) and an understanding of my ingredients and methods built from the ground up. And I very happily eat my own dog food...!
+- I am a keen home chef, and often note that I take a similar approach to cooking as in coding: working methodically, with a focus on best practice (knife skills, mise en place) and an understanding of my ingredients and methods built from the ground up. And I very happily 'eat my own dog food'...!
 
 - I have an unbroken streak of 1300+ days' language learning on Duolingo. When I set my mind to learning something, I keep at it!
