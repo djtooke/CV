@@ -4,6 +4,14 @@ As a recent graduate of Makers Academy, I am looking for work as a junior develo
 
 I'm a motivated and highly versatile individual in need of constant stimulation, and all-round excitable person. My background is in Classical music, but having now made a decisive move into programming, I've found a mode of work that brings all my strengths and motivations perfectly together. It's such a joy to no longer be a square peg in a round hole.
 
+## Example repositories
+
+* [Oyster Cards](https://github.com/djtooke/oyster) - London's Oyster Card system recreated in object-oriented Ruby
+* [Bank Tech Test](https://github.com/djtooke/bank-tech-test) - A tech test, recreating the functionality of a bank account
+* [Gelato calculator](https://github.com/djtooke/gelato-calculator) - My side project, a recipe calculator for making perfect gelato!
+* [AppCapella](https://github.com/ljcphillips/appcapella) - Our graduation project at Makers Academy, an app which allows you to sing alongside yourself and create an accapella video.
+
+
 ## Skills
 
 #### Excellent Communication Skills
@@ -61,7 +69,7 @@ Makers Academy is an intense, highly selective 12-week coding bootcamp. I have b
 **Well-Typed LLP** (September 2016 to Present)    
 *Assistant Business Administrator*
 
-As Assistant Business Administrator I am responsible for all aspects of the firm's administration, including sending and receiving invoices, upkeep of accounts and paying contractors. All of the firm's records are written in Haskell, so I have been working with these and interacting with homebuilt programs to perform functions such as invoice generation and VAT returns.
+As Assistant Business Administrator I am responsible for all aspects of the firm's administration, including sending and receiving invoices, upkeep of accounts and paying contractors. All of the firm's records are written in Haskell, so I have been working with these and interacting with homebuilt programs through the terminal to perform functions such as invoice generation and VAT returns.
 
 **Leeds University** (October 2016 to January 2018)   
 *Postgraduate Teaching Assistant*
@@ -78,3 +86,5 @@ As an exams administrator I was a typesetter responsible for creating proofs of 
 - I am a keen home chef, and often note that I take a similar approach to cooking as in coding: working methodically, with a focus on best practice (knife skills, mise en place) and an understanding of my ingredients and methods built from the ground up. And I very happily 'eat my own dog food'...!
 
 - I speak intermediate French and German. I also have an unbroken streak of 1300+ days' language learning on Duolingo; when I set my mind to learning something, I keep at it!
+
+- I lived and taught science and IT at a secondary school in Guyana for an academic year, in 2005-6. This taught me a great deal, including how to chase a snake out of your house with a machete.
