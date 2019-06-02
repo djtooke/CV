@@ -48,7 +48,7 @@ As Assistant Business Administrator I was responsible for all aspects of the fir
 
 * [Oyster Cards](https://github.com/djtooke/oyster) - London's Oyster Card system recreated in object-oriented Ruby
 * [Bank Tech Test](https://github.com/djtooke/bank-tech-test) - A tech test, recreating the functionality of a bank account
-* [Gelato calculator](https://github.com/djtooke/gelato-calculator) - My side project, a recipe calculator for making perfect gelato!
+* [Gelato calculator](https://github.com/djtooke/gelato-ruby) - My side project, a recipe calculator for making perfect gelato!
 <!-- * [AppCapella](https://github.com/ljcphillips/appcapella) - Our graduation project at Makers Academy, an app which allows you to sing alongside yourself and create an accapella video. -->
 
 
