@@ -4,7 +4,7 @@ I'm a software engineer for [Hive Learning](http://github.com/hivelearning), dev
 
 I highly value best-practices (such as Agile and XP values), and understanding code from the very fundamentals upwards; as such I thrive in environments where mastery and deep understanding of code is highly prized.
 
-I'm a motivated and highly versatile individual in need of constant stimulation, and all-round excitable person. My background is in Classical music, but having made a decisive move into programming, I've found a mode of work that brings all my strengths and motivations perfectly together. It's such a joy to no longer be a square peg in a round hole.
+I'm a motivated and highly versatile individual in need of constant stimulation, and all-round excitable person. Previously my background was in Classical music, but having made a decisive move into programming, I've found a mode of work that brings all my strengths and motivations perfectly together. It's such a joy to no longer be a square peg in a round hole.
 
 ## Programming experience
 
@@ -14,11 +14,11 @@ I'm a motivated and highly versatile individual in need of constant stimulation,
 I currently work as a software engineer developing backend services for Hive Learning. We've been preparing to roll out Version 4.0 of our app, which is a complete rewrite of the app in a brand new stack, with an event-driven microservice architecture and a frontend in React Native. As such I've been involved in a very exciting and hands-on period of writing a number of features of the app from scratch. My experience with the stack has included:
 
 - Writing and testing backend services in Python, with tests written using its built-in Unittest library
-- Creating APIs to be hosted in Kubernetes/docker containers or AWS, with documentation and validation through Swagger and API Gateway. These have communicated variously with internal and external APIs and used a number of different open source libraries.
+- Creating APIs to be hosted in Kubernetes/docker containers or AWS Lambda, with documentation and validation through Swagger and API Gateway. These have communicated variously with internal and external APIs and used a number of different open source libraries.
 - Publishing and reacting to events in a fully event-driven architecture
 - Storing and retrieving items from databases, with object wrapping in Python (SQLAlchemy)
-- Indexing and retrieiving items in Elasticsearch for our app's search engine
-- Working with frontend programmers on a shared specification for each service
+- Indexing and retrieiving items in Elasticsearch for our app's search engine, and refining queries to make search results as meaningful as possible
+- Collaborating on designing new features to give maximum value to users, and working with frontend programmers on a shared specification for each service
 - Documenting code in Readme files and Docstrings
 - Working with AWS Specifications and permissions for different services
 - Implementing multithreading and multiprocessing where appropriate
@@ -31,7 +31,7 @@ Makers Academy is an intense, highly selective 12-week coding bootcamp. I greatl
 - Projects in Ruby, Ruby on Rails, and Javascript, with an emphasis on Object Oriented Programming (OOP)
 - An emphasis on Agile and XP values, and an understanding of industry best-practice
 - All our code exemplifies Test-Driven Development (TDD), typically with RSpec and Jasmine, but also with testing frameworks written from scratch.
-- Many of our projects were web-based, hosted by frameworks such as Sinatra, http-server, and Rails, and deployed by services such as Heroku. We have also used SQL and MongoDB for database storage, and have been concerned to correctly deploy MVC.
+- Many of our projects were web-based, hosted by frameworks such as Sinatra, http-server, and Rails, and deployed by services such as Heroku. We also used SQL and MongoDB for database storage, and have been concerned to correctly deploy MVC.
 
 **Well-Typed LLP (September 2016 to September 2018)**   
 *Assistant Business Administrator, September 2016 - September 2018*
@@ -46,9 +46,10 @@ As Assistant Business Administrator I was responsible for all aspects of the fir
 
 ## Example repositories
 
+* [Gelato calculator](https://github.com/djtooke/gelato) - My side project, a Python recipe calculator for making perfect gelato!
 * [Oyster Cards](https://github.com/djtooke/oyster) - London's Oyster Card system recreated in object-oriented Ruby
-* [Bank Tech Test](https://github.com/djtooke/bank-tech-test) - A tech test, recreating the functionality of a bank account
-* [Gelato calculator](https://github.com/djtooke/gelato-ruby) - My side project, a recipe calculator for making perfect gelato!
+* [Bank Tech Test](https://github.com/djtooke/bank-tech-test) - A tech test, recreating the functionality of a bank account in Ruby
+
 <!-- * [AppCapella](https://github.com/ljcphillips/appcapella) - Our graduation project at Makers Academy, an app which allows you to sing alongside yourself and create an accapella video. -->
 
 
@@ -102,11 +103,11 @@ As an exams administrator I was a typesetter responsible for creating proofs of 
 
 ## You may also like to know
 
-- The years 2010-18 I spent working in academia, studying and researching Classical music. This mainly centred around lots of Austrians named Arnold and Hans, as well as a Russian guy called Серге́й.
+- The years 2010-18 I spent working in academia, studying and researching Classical music. This mainly centred around lots of Austrians named Arnold and Hans, as well as a Russian called Серге́й.
 
 - I am a keen home chef, and often note that I take a similar approach to cooking as in coding: working methodically, with a focus on best practice (knife skills, mise en place) and an understanding of my ingredients and methods built from the ground up. And I very happily 'eat my own dog food'...!
 
-- I speak intermediate French and German, and in particular am working to achieve fluency in French. I currently have an unbroken streak of 1600+ days' language learning on Duolingo; when I set my mind to learning something, I keep at it!
+- I am currently working to achieve fluency in French (and also speak a bit of German too). I currently have an unbroken streak of 1600+ days' language learning on Duolingo; when I set my mind to learning something, I keep at it!
 
 - Since 2007, my closest friends and I have put together a number of amateur dramatic productions for schools, hospitals and our own amusement. Ask me about the play I wrote about the nuns and the exploding cake.
 
