@@ -1,12 +1,12 @@
 ## Daniel Tooke
 
-I'm a software engineer for [Hive Learning](http://github.com/hivelearning), developing backend services in Python.
+As a backend software engineer, my most recent position has been working for [Hive Learning](http://github.com/hivelearning), developing backend microservices in Python, which I enjoyed immensely. Currently I'm looking to build on this experience in my next backend or full-stack role in Paris, France.
 
-I’m a motivated and enthusiastic developer, with excellent communication skills. I highly value a deep understanding of code from the fundamentals upwards, and work best in teams which communicate well and prize autonomy, mastery and purpose.
+I’m a self-motivated and personable developer, with excellent communication skills. I highly value a deep understanding of code from the fundamentals upwards, and work best in teams which communicate well and prize autonomy, mastery and purpose.
 
 ## Example repositories
 
-* [Gelato calculator](https://github.com/djtooke/gelato) - My side project, a Python recipe calculator for making perfect gelato!
+* [Gelato calculator](https://github.com/djtooke/gelato) - A little side project, a Python recipe calculator for making perfect gelato!
 * [Oyster Cards](https://github.com/djtooke/oyster) - London's Oyster Card system recreated in object-oriented Ruby
 * [Bank Tech Test](https://github.com/djtooke/bank-tech-test) - A tech test, recreating the functionality of a bank account in Ruby
 
@@ -15,22 +15,21 @@ I’m a motivated and enthusiastic developer, with excellent communication skill
 ## Programming experience
 
 **Hive Learning**   
-*Junior Software Engineer, July 2018 - Present*
+*Junior Software Engineer, July 2018 - September 2019 (1 year 2 months)* 
 
-At Hive we’ve recently undertaken a complete rewrite of our app in a brand new stack, with an event-driven microservice architecture and a frontend in React Native. As such I've been involved in a very exciting and hands-on period of writing a number of features of the app from scratch. My experience with the stack has included:
+I have most recently been working as a software engineer developing backend services for Hive Learning. We've been preparing to roll out Version 4.0 of our app, which is a complete rewrite of the app in a brand new stack, with an event-driven microservice architecture and a frontend in React Native. As such I've been involved in a very exciting and hands-on period of writing a number of features of the app from scratch. My experience with the stack has included:
 
 - Writing and testing backend services in Python, with tests written using its built-in Unittest library
-- Creating APIs to be hosted in Kubernetes/docker containers or AWS Lambda, with documentation and validation through Swagger and API Gateway. These have communicated variously with internal and external APIs and used a number of different open source libraries.
-- Publishing and reacting to events in a fully event-driven architecture
-- Relational database access, with object wrapping in Python (SQLAlchemy)
-- Indexing and querying items in Elasticsearch for our app's search engine
 - Collaborating on design and specification of new features to give maximum value to users
-- Documenting code in Readme files and Docstrings
-- Working with AWS Specifications and permissions for different services
-- Implementing multithreading and multiprocessing where appropriate
+- Creating APIs to be hosted in Kubernetes/docker containers or AWS, with documentation and validation through Swagger and API Gateway. These have communicated variously with internal and external APIs and used a number of different open source libraries.
+- Publishing and reacting to events in a fully event-driven architecture
+- Storing and retrieving items from databases, with object wrapping in Python (SQLAlchemy)
+- Indexing and retrieving items in Elasticsearch for our app's search engine
+- Setting up microservices to use niche AWS services such as Transcribe and Translate, setting permissions via IAM roles for each service, and manipulating Terraform files to make necessary infrastructure changes
+- Implementing multithreading and multiprocessing as most appropriate to optimise performance
 
 **Makers**   
-*Student, March 2018 - June 2018*
+*Student, March 2018 - June 2018 (3 months)*
 
 Makers is an intense, highly selective 12-week coding bootcamp in Shoreditch, London. I greatly enjoyed my time here and graduated in June 2018. Aspects of the curriculum included:
 
@@ -40,7 +39,7 @@ Makers is an intense, highly selective 12-week coding bootcamp in Shoreditch, Lo
 - Many of our projects were web-based, hosted by frameworks such as Sinatra, http-server, and Rails, and deployed by services such as Heroku. We also used SQL and MongoDB for database storage, and have been concerned to correctly deploy MVC.
 
 **Well-Typed LLP (September 2016 to September 2018)**   
-*Assistant Business Administrator, September 2016 - September 2018*
+*Assistant Business Administrator, September 2016 - September 2018 (2 years)*
 
 As Assistant Business Administrator I was responsible for all aspects of the firm's administration, including sending and receiving invoices, upkeep of accounts and paying contractors. This was not strictly a development job, but all of the firm's records were written in Haskell files, so I was upkeeping these and interacting with homebuilt programs through the terminal to perform functions such as invoice generation and VAT returns.
 <!-- - Experience at learning how to learn
